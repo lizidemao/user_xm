@@ -1,5 +1,19 @@
+
 .user1{
 	width: 500px;
 	height: 500px;
 	background-color: darkgreen;
 }
+.user2{
+	width: 980px;
+	height: 300px;
+	background-color: pink;
+	margin-bottom: 30px;
+
+}
+.user1 a{
+	color:#009999;
+}
+
+
+
